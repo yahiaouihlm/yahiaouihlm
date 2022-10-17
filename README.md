@@ -31,6 +31,6 @@
 <h2>Github stats</h2>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Akirabane&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akirabane&theme=material-palenight)
+![](https://github-readme-stats.vercel.app/api?username=yahiaouihlm&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yahiaouihlm&theme=material-palenight)
 </div>
