@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/77858565?v=4">
+  <img width="128" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/">
 </p>
 
 <h1 align="center">Hey ! Je suis <a href="#">yahiaouihlm</a>👋</h1>
