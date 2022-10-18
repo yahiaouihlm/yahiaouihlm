@@ -10,7 +10,7 @@
 <h2>à propos de moi !</h2>
 
 - 👨‍🎓 Licence en Informatique Général à Universite de Paris.
-- 👨‍🎓 Licence & Master architecture logiciel et développement de nouvelles technologies (Bac +5) chez Aston Institut & SQLI.
+- 👨‍🎓 Master architecture logiciel et développement de nouvelles technologies (Bac +5) chez Aston Institut & SQLI.
 - 🍊 Oukkie for life
 - 🤫 Mon hobby ? J'adore le kendo
 
